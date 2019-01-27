@@ -106,12 +106,16 @@ For the video file let's start with a new post. We will not need sample text for
 1.  True
 2.  False
 
-**Answer:** 1\. True **You should size your images to the exact size you want before you upload them to the Media Manager.**
+**Answer:** 1. True
+
+**You should size your images to the exact size you want before you upload them to the Media Manager.**
 
 1.  True
 2.  False
 
-**Answer:** 2\. False **Which of the following are not available labels for sound files?**
+**Answer:** 2. False
+
+**Which of the following are not available labels for sound files?**
 
 1.  Title
 2.  Artist
@@ -120,7 +124,9 @@ For the video file let's start with a new post. We will not need sample text for
 5.  Genre
 6.  Description
 
-**Answer:** 5\. Genre **Which of the following formats CAN NOT be uploaded? **
+**Answer:** 5. Genre
+
+**Which of the following formats CAN NOT be uploaded?**
 
 1.  .jpg
 2.  .png
@@ -128,7 +134,7 @@ For the video file let's start with a new post. We will not need sample text for
 4.  .tiff
 5.  .bmp
 
-**Answer:** 4\. .tiff and 5\. .bmp  
+**Answer:** 4. .tiff and 5. .bmp  
 
 ## Additional resources
 
