@@ -2,7 +2,7 @@
 
 ## Description
 
-This lesson plan discusses the various ways that WordPress Media Manager handles media. In this lesson plan you will learn how to upload and insert image files, document files, audio files and video files.  You will also learn how to re-size, format, link and include these media files into your posts and pages.
+This lesson plan discusses the various ways that WordPress Media Manager handles media. In this lesson plan, you will learn how to upload and insert image files, document files, audio files, and video files.  You will also learn how to re-size, format, link and include these media files into your posts and pages.
 
 ## Prerequisite Skills
 
@@ -49,7 +49,7 @@ We're going to get started by having everyone log into their local WordPress ins
 *   Caption
 *   Description of the link
 
-Next, let's change the "Link To" to media file or attachment file. Now let's upload another document but use the other "Link To" option. Once we have both documents added to the page, let's change the anchor text of each document to something that is easier to read. By highlighting the link you'll be able to edit the link to open in a new tab and have an alt title. Your published page with the uploaded document should look similar to this: [caption id="attachment_1836" align="aligncenter" width="244"]![uploaded documents with anchor text](http://make.wordpress.org/training/files/2014/10/Screen-Shot-2014-11-10-at-9.54.19-PM.png) uploaded documents with anchor text[/caption] Notice how the two links will look the same but act differently when clicked by a reader?
+Next, let's change the "Link To" to media file or attachment file. Now let's upload another document but use the other "Link To" option. Once we have both documents added to the page, let's change the anchor text of each document to something easier to read. By highlighting the link you'll be able to edit the link to open in a new tab and have an alt title. Your published page with the uploaded document should look similar to this: [caption id="attachment_1836" align="aligncenter" width="244"]![uploaded documents with anchor text](http://make.wordpress.org/training/files/2014/10/Screen-Shot-2014-11-10-at-9.54.19-PM.png) uploaded documents with anchor text[/caption] Notice how the two links will look the same but act differently when clicked by a reader?
 
 * * *
 
