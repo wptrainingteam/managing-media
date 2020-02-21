@@ -2,7 +2,7 @@
 
 ## Description
 
-This lesson plan discusses the various ways that WordPress Media Manager handles media. In this lesson plan you will learn how to upload and insert image files, document files, audio files and video files.  You will also learn how to re-size, format, link and include these media files into your posts and pages.
+This lesson plan discusses the various ways that WordPress Media Manager handles media. In this lesson plan, you will learn how to upload and insert image files, document files, audio files and video files.  You will also learn how to re-size, format, link and include these media files into your posts and pages.
 
 ## Prerequisite Skills
 
